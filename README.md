@@ -60,6 +60,13 @@ O Vagalume reúne essas informações em um só lugar para que cada mulher escol
 
 O Claude, da Anthropic, foi utilizado como ferramenta de apoio ao longo de todo o desenvolvimento do Vagalume, contribuindo para a engenharia de prompts, estruturação de soluções, desenvolvimento e aprimoramento de funcionalidades no front-end e back-end. Também atuou como apoio em UX/UI Design, auxiliando na concepção de interfaces, organização de componentes, experiência do usuário e definição de diretrizes visuais. Além disso, foi utilizado na análise de problemas e exploração de soluções técnicas. As decisões de produto, escolhas técnicas e validação dos resultados permaneceram sob responsabilidade da equipe.
 
+## Equipe
+
+- **Alessandra La Torre** — [GitHub](https://github.com/alesslatorre)
+- **Matheus Bonfim** — [GitHub](https://github.com/MatheusBonfim265)
+- **Fernanda Marques** — [GitHub](https://github.com/nanda-marques)
+- **Manuella Santos** — [GitHub](https://github.com/Manuellasantos)
+- **Mayra** — [GitHub](https://github.com/Cosmic-Bubble)
 ---
 
 <p align="center"><sub>Vagalume · Uma luz no seu caminho.</sub></p>
