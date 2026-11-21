@@ -38,7 +38,8 @@ O Vagalume reúne essas informações em um só lugar para que cada mulher escol
 - React e Vite
 - Leaflet, OpenStreetMap e Stadia Maps
 - Dados públicos de iluminação do GeoSampa
-- Google Gemini (assistente Lume)
+- API Google Gemini (assistente Lume)
+- Claude Code
 - VLibras
 - Vercel
 
